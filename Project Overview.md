@@ -1,4 +1,6 @@
 # Project Overview: WordPress Hosting on AWS Infrastructure
+![Wordpress project drawio](https://github.com/yvanbinda/Host-Wordpress-in-AWS/assets/146278316/9b77e41c-d239-4f3e-8b3a-049eaf706ea4)
+
 This project showcases the seamless deployment of a WordPress website on Amazon Web Services (AWS), leveraging robust cloud infrastructure to ensure scalability, reliability, and optimal performance.
 
 Key Features:
@@ -15,7 +17,7 @@ Key Features:
 
 **Domain Registration:** The project guides users through registering a custom domain using AWS Route 53, enabling a personalized and professional web address.
 
-Getting Started:
+**Getting Started:**
 
 Follow the step-by-step tutorial in the repository to replicate the infrastructure and deploy a WordPress site on AWS. Whether you're a developer, system administrator, or AWS enthusiast, this project provides a comprehensive guide to hosting a WordPress website with industry-leading cloud services.
 
