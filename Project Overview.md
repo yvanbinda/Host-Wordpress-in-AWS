@@ -19,4 +19,3 @@ Getting Started:
 
 Follow the step-by-step tutorial in the repository to replicate the infrastructure and deploy a WordPress site on AWS. Whether you're a developer, system administrator, or AWS enthusiast, this project provides a comprehensive guide to hosting a WordPress website with industry-leading cloud services.
 
-Explore, Deploy, and Optimize your WordPress Experience on AWS!
