@@ -1,6 +1,5 @@
 # Project Overview: WordPress Hosting on AWS Infrastructure
-![Wordpress project drawio](https://github.com/yvanbinda/Host-Wordpress-in-AWS/assets/146278316/9b77e41c-d239-4f3e-8b3a-049eaf706ea4)
-
+![Wordpress project drawio](https://github.com/yvanbinda/Host-Wordpress-in-AWS/assets/146278316/e4c8728d-5a8c-4354-a9cb-ff04cdbb4045)
 This project showcases the seamless deployment of a WordPress website on Amazon Web Services (AWS), leveraging robust cloud infrastructure to ensure scalability, reliability, and optimal performance.
 
 Key Features:
