@@ -2,19 +2,21 @@
 ![Wordpress project drawio](https://github.com/yvanbinda/Host-Wordpress-in-AWS/assets/146278316/e4c8728d-5a8c-4354-a9cb-ff04cdbb4045)
 This project showcases the seamless deployment of a WordPress website on Amazon Web Services (AWS), leveraging robust cloud infrastructure to ensure scalability, reliability, and optimal performance.
 
-Key Features:
+**Key Features:**
 
-**Modular Infrastructure:** The project is built on a modular infrastructure, utilizing Virtual Private Cloud (VPC), subnets, and security groups to create a secure and isolated environment.
-
-**High Availability:** Instances are distributed across multiple Availability Zones (AZs), enhancing fault tolerance and ensuring the availability of the WordPress site.
-
-**Load Balancing:** An Application Load Balancer (ALB) intelligently distributes incoming traffic among multiple instances, optimizing resource utilization and enhancing site responsiveness.
-
-**Database Management:** Amazon RDS for MySQL is employed for database management, providing a scalable and fully managed solution for data storage.
-
-**Elastic File System (EFS):** EFS is integrated to facilitate scalable and shared file storage, enhancing the resilience of the WordPress setup.
-
-**Domain Registration:** The project guides users through registering a custom domain using AWS Route 53, enabling a personalized and professional web address.
+    **Modular Infrastructure:** The project is built on a modular infrastructure, utilizing Virtual Private Cloud (VPC), subnets, and security groups to create a secure and isolated     
+                                environment.
+    
+    **High Availability:** Instances are distributed across multiple Availability Zones (AZs), enhancing fault tolerance and ensuring the availability of the WordPress site.
+    
+    **Load Balancing:** An Application Load Balancer (ALB) intelligently distributes incoming traffic among multiple instances, optimizing resource utilization and enhancing site 
+                        responsiveness.
+    
+    **Database Management:** Amazon RDS for MySQL is employed for database management, providing a scalable and fully managed solution for data storage.
+    
+    **Elastic File System (EFS):** EFS is integrated to facilitate scalable and shared file storage, enhancing the resilience of the WordPress setup.
+    
+    **Domain Registration:** The project guides users through registering a custom domain using AWS Route 53, enabling a personalized and professional web address.
 
 **Getting Started:**
 
