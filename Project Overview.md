@@ -1,2 +1,22 @@
-# WordPress Hosting on AWS Infrastructure
-This project demonstrates the setup and deployment of a scalable and resilient WordPress website on Amazon Web Services (AWS) infrastructure. Leveraging AWS services such as EC2 instances, RDS for MySQL, Elastic File System (EFS), and Application Load Balancer (ALB), the project ensures high availability, security, and efficient resource utilization. The step-by-step tutorial covers VPC creation, subnet configuration, security group setup, instance provisioning, software stack installation (Apache, PHP, MySQL), Elastic File System integration, and load balancing. Additionally, the tutorial guides users through the registration of a custom domain using AWS Route 53. The result is a fully functional WordPress site with optimal performance and reliability on the AWS cloud platform.
+# Project Overview: WordPress Hosting on AWS Infrastructure
+This project showcases the seamless deployment of a WordPress website on Amazon Web Services (AWS), leveraging robust cloud infrastructure to ensure scalability, reliability, and optimal performance.
+
+Key Features:
+
+**Modular Infrastructure:** The project is built on a modular infrastructure, utilizing Virtual Private Cloud (VPC), subnets, and security groups to create a secure and isolated environment.
+
+**High Availability:** Instances are distributed across multiple Availability Zones (AZs), enhancing fault tolerance and ensuring the availability of the WordPress site.
+
+**Load Balancing:** An Application Load Balancer (ALB) intelligently distributes incoming traffic among multiple instances, optimizing resource utilization and enhancing site responsiveness.
+
+**Database Management:** Amazon RDS for MySQL is employed for database management, providing a scalable and fully managed solution for data storage.
+
+**Elastic File System (EFS):** EFS is integrated to facilitate scalable and shared file storage, enhancing the resilience of the WordPress setup.
+
+**Domain Registration:** The project guides users through registering a custom domain using AWS Route 53, enabling a personalized and professional web address.
+
+Getting Started:
+
+Follow the step-by-step tutorial in the repository to replicate the infrastructure and deploy a WordPress site on AWS. Whether you're a developer, system administrator, or AWS enthusiast, this project provides a comprehensive guide to hosting a WordPress website with industry-leading cloud services.
+
+Explore, Deploy, and Optimize your WordPress Experience on AWS!
